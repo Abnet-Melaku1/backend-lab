@@ -1,0 +1,16 @@
+listeners: 10, heap:  11 MB
+listeners: 20, heap:  19 MB
+(node:26124) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 shutdown listeners added to [EventEmitter]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+listeners: 30, heap:  27 MB
+listeners: 40, heap:  35 MB
+listeners: 50, heap:  42 MB
+listeners: 60, heap:  50 MB
+listeners: 70, heap:  58 MB
+listeners: 80, heap:  65 MB
+listeners: 90, heap:  73 MB
+listeners: 100, heap:  81 MB
+listeners: 110, heap:  88 MB
+listeners: 120, heap:  96 MB
+listeners: 130, heap:  103 MB
+listeners: 140, heap:  111 MB
